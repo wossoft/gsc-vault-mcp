@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.wossoft/gsc-vault",
+  "title": "GSC Vault",
+  "description": "Find unindexed pages and keep Search Console data forever — via MCP for AI tools.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://connect.gscvault.app/mcp"
+    }
+  ]
+}
