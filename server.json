@@ -4,6 +4,10 @@
   "title": "GSC Vault",
   "description": "Find unindexed pages and keep Search Console data forever — via MCP for AI tools.",
   "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/wossoft/gsc-vault-mcp",
+    "source": "github"
+  },
   "remotes": [
     {
       "type": "streamable-http",
